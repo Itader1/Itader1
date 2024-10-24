@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Itader1
+- 👀 I’m interested in Sports and Technology
+- 🌱 I’m currently learning Python
